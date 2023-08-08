@@ -1,0 +1,208 @@
+{
+  "operadores": [
+    {
+      "id": 1,
+      "nome": "operador 1",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 2,
+      "nome": "operador 2",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 3,
+      "nome": "operador 3",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 4,
+      "nome": "operador 4",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 5,
+      "nome": "operador 5",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 6,
+      "nome": "operador 6",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 7,
+      "nome": "operador 7",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 8,
+      "nome": "operador 8",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 9,
+      "nome": "operador 9",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    },
+    {
+      "id": 10,
+      "nome": "operador 10",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000"
+    }
+  ],
+  "documentos": [
+    {
+      "id": 1,
+      "documento": "documento 1"
+    },
+    {
+      "id": 2,
+      "documento": "documento 2"
+    },
+    {
+      "id": 3,
+      "documento": "documento 3"
+    },
+    {
+      "id": 4,
+      "documento": "documento 4"
+    },
+    {
+      "id": 5,
+      "documento": "documento 5"
+    },
+    {
+      "id": 6,
+      "documento": "documento 6"
+    },
+    {
+      "id": 7,
+      "documento": "documento 7"
+    },
+    {
+      "id": 8,
+      "documento": "documento 8"
+    },
+    {
+      "id": 9,
+      "documento": "documento 9"
+    },
+    {
+      "id": 10,
+      "documento": "documento 10"
+    }
+  ],
+  "processos": [
+    {
+      "id": 1,
+      "numero": "123456",
+      "contra": "fulano de tal",
+      "carteira": "carteira"
+    },
+    {
+      "id": 2,
+      "numero": "123456",
+      "contra": "fulano de tal",
+      "carteira": "carteira"
+    },
+    {
+      "id": 3,
+      "numero": "123456",
+      "contra": "fulano de tal",
+      "carteira": "carteira"
+    }
+  ],
+  "contatos": [
+    {
+      "id": 1,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 1",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "sim"
+    },
+    {
+      "id": 2,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 2",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "não"
+    },
+    {
+      "id": 3,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 3",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "sim"
+    },
+    {
+      "id": 4,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 4",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "não"
+    },
+    {
+      "id": 5,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 5",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "sim"
+    },
+    {
+      "id": 6,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 6",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "não"
+    },
+    {
+      "id": 7,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 7",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "sim"
+    },
+    {
+      "id": 8,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 8",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "não"
+    },
+    {
+      "id": 9,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 9",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "sim"
+    },
+    {
+      "id": 10,
+      "escritorio": "nome do escritorio",
+      "nome": "operador 10",
+      "email": "operador@gmail.com",
+      "telefone": "00 00000-0000",
+      "bloqueado": "não"
+    }
+  ]
+}
